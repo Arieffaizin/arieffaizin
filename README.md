@@ -1,6 +1,12 @@
-## Hello World! I'm Arief Faizin 👋
-
 ![Arief Faizin](img/github-header-01.jpg)
+
+#### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,go,docker,mysql&theme=light)](https://skillicons.dev)
+
+#### Connect with me
+
+[https://www.linkedin.com/in/arieffaizin/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **Arieffaizin/arieffaizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
