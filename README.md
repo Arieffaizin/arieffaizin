@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Arief Faizin 👋
+
+![Arief Faizin](img/github-header-01.jpg)
 
 <!--
 **Arieffaizin/arieffaizin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
